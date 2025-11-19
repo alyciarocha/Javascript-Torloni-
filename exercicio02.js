@@ -31,6 +31,8 @@ switch (Semanas) {
 
 
     default:
-        console.log("Não há esse dia na semana!!!!")
+        console.log("Número informado é invalido!")
         break;
 }
+
+

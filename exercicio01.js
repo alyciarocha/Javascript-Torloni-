@@ -1,16 +1,16 @@
 let nome = (prompt("Digite seu email"))
-if ( nome == "admin") {
-    console.log("Acesso Liberado")
+if ( username == "admin" && senha == "senha123") {
+    console.log("Login bem-sucedido!")
 }
 
 
 else{
-   console.log("Acesso Negado")
+   console.log("Login incorreto!")
 }
 
 
 
-// ------------------ senha --------------------
+// ------------------ senha -------------------- let= solicitar, prompt comando 
 
 
 let senha = (prompt("Digite sua senha"))
