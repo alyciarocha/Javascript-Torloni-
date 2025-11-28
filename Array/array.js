@@ -30,5 +30,5 @@ for(let i = 0; i < tarefas.length; i++){
 
 console.log("A lista de tarefas tem: " + tarefas.length + " itens ");
 tarefas.length.forEach(tarefas => {
-    console.log(tarefas);
-});
+    console.log(tarefas)
+}); 
