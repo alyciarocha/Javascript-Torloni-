@@ -39,3 +39,4 @@ let professor = {
  console.log( professor);
  console.log( atribuirNota);
  console.log ( baterPonto)
+ 

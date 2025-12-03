@@ -49,7 +49,6 @@ if (imc < 18.5) {
     console.log("Obesidade grau 3");}    
 
 }
-let peso = Number(prompt("Digite seu peso: "));
-let altura = Number(prompt("Digite sua altura: "));
+
 
 calcularIMC( peso, altura);
